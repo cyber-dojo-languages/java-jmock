@@ -1,5 +1,5 @@
-FROM       cyberdojofoundation/java:1.8
-MAINTAINER Jon Jagger <jon@jaggersoft.com>
+FROM  cyberdojofoundation/java:1.8
+LABEL maintainer=jon@jaggersoft.com
 
 COPY /jars/* /jmock/
 ENV CLASSPATH=/jmock/

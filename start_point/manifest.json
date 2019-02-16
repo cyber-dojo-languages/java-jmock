@@ -11,7 +11,5 @@
 
   "image_name": "cyberdojofoundation/java_jmock",
 
-  "filename_extension": ".java",
-
-  "runner_choice": "stateless"
+  "filename_extension": ".java"
 }

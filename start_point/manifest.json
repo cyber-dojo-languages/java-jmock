@@ -1,15 +1,14 @@
-
 {
   "display_name": "Java, JMock",
-
-  "visible_filenames": [
+  "image_name": "cyberdojofoundation/java_jmock",
+  "visible_filenames":
+  [
     "DeepThoughtTest.java",
     "DeepThought.java",
     "AnswerSeeker.java",
     "cyber-dojo.sh"
   ],
-
-  "image_name": "cyberdojofoundation/java_jmock",
-
-  "filename_extension": ".java"
+  "filename_extension": [ ".java" ],
+  "max_seconds": 10,
+  "tab_size": 4
 }

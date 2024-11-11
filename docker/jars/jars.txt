@@ -1,0 +1,8 @@
+This file contains the locations to download the relevant .jar files
+Current version number in parentheses
+
+(3.0)    https://mvnrepository.com/artifact/org.hamcrest/hamcrest
+(2.13.1) https://mvnrepository.com/artifact/org.jmock/jmock
+(2.13.1) https://mvnrepository.com/artifact/org.jmock/jmock-junit4
+(2.13.1) https://mvnrepository.com/artifact/org.jmock/jmock-testjar
+(4.13.2) https://mvnrepository.com/artifact/junit/junit

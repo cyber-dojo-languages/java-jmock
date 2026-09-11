@@ -1,6 +1,6 @@
 # JDK 26. The AOT cache recorded below needs 24 or newer for -XX:AOTCacheOutput,
 # which records in one step; the java-21 base this image used before cannot.
-FROM ghcr.io/cyber-dojo-languages/java:7d1eb76
+FROM ghcr.io/cyber-dojo-languages/java:b2e8ddb
 LABEL maintainer=jon@jaggersoft.com
 
 ENV CLASSPATH=/jmock/
